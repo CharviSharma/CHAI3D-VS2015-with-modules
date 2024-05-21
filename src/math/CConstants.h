@@ -48,7 +48,7 @@
 #include "system/CGlobals.h"
 //------------------------------------------------------------------------------
 #ifdef C_USE_EIGEN
-#include "Eigen/Eigen"
+#include "D:\Charvi\chai3d-3.2.0\external\Eigen\Eigen\Eigen"
 #endif
 //------------------------------------------------------------------------------
 

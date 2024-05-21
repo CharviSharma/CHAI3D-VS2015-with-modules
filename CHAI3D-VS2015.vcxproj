@@ -232,7 +232,7 @@
       <Optimization>Disabled</Optimization>
       <WholeProgramOptimization>false</WholeProgramOptimization>
       <AdditionalIncludeDirectories>src;external/Eigen;external/lib3ds/include;external/libjpeg/include;external/libpng/include;external/giflib/include;external/glew/include;external/pugixml/include;external/openal/include;external/openal/OpenAL32/Include;external/openal/Alc;external/theoraplayer/include/theoraplayer;external/theoraplayer/src/Theora;external/theoraplayer/src/YUV/C;external/theoraplayer/external/ogg/include;external/theoraplayer/external/vorbis/include;external/theoraplayer/external/vorbis/lib;external/theoraplayer/external/theora/include;external/theoraplayer/external/theora/lib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>GLEW_STATIC;AL_ALEXT_PROTOTYPES;AL_BUILD_LIBRARY;AL_LIBTYPE_STATIC;__THEORA;WIN64;_DEBUG;_MSVC;_LIB;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>GLEW_STATIC;AL_ALEXT_PROTOTYPES;AL_BUILD_LIBRARY;AL_LIBTYPE_STATIC;__THEORA;WIN64;NDEBUG;_MSVC;_LIB;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <MinimalRebuild>false</MinimalRebuild>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>

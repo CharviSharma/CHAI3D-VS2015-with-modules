@@ -54,7 +54,7 @@
 #define glewInit() 0
 #define GLEW_OK 0
 #else
-#include <GL/glew.h>
+#include "D:\Charvi\chai3d-3.2.0\external\glew\include\GL\glew.h"
 #endif
 
 //------------------------------------------------------------------------------
